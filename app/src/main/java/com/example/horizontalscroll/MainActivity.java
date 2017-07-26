@@ -6,7 +6,6 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.Window;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -42,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     mAdapter.notifyDataSetChanged();
 
                 } else {
+
                     swap(mDatas, position, 0);
                     for (int i = mDatas.size() - 1; i < 0; i--) {
                         mAdapter.notifyItemRemoved(i);
