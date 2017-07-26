@@ -1,1 +1,1 @@
-![image](https://github.com/xtfgq/horizontalscroll/blob/master/device-2017-07-25-160824.gif)
+![image](https://github.com/xtfgq/horizontalscroll/blob/master/device-2017-07-26-092723.gif)
